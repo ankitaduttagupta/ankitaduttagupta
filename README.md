@@ -1,6 +1,6 @@
 # Hi !
 
-# This is  list of My Data Science Projects 
+### *This is  a list of  projects worked upon by me throughout my  journey of learning Data Science since October 2019 !*
 
 
 ## *[Mahindra First Choice Services](https://github.com/ankitaduttagupta/Mahindra_first_choice_capstone)*
