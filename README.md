@@ -15,7 +15,7 @@ Beside's programming, I enjoy eating food and traveling.
 
 🌱 I’m currently learning Deeplearning and C++
 
-🤔 I’m looking for help with Data Structures and Algorithms 😭
+🤔 I’m looking for help with Data Structures and Algorithms
 
 💬 Ask me about anything, I am happy to help
 
