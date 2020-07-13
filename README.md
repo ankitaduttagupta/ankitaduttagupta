@@ -10,7 +10,7 @@ Beside's programming, I enjoy eating food and traveling.
 **Talking about Personal Stuffs:**
 
 - Student of Grey Atom School of Data Science, Mumbai since October -2019
-- 👨🏽‍💻 I have a keen interest in Machine Learning ;
+- 👨🏽‍💻 I have a keen interest to work on Advanced chatbot processing and optimisation with NLP;
 - 🌱 I’m currently learning Deeplearning and C++; 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
@@ -43,7 +43,7 @@ Beside's programming, I enjoy eating food and traveling.
 
 ## *[Mahindra First Choice Services](https://github.com/ankitaduttagupta/Mahindra_first_choice_capstone)*
 
-The goal of this project is to :
+It is a capstone project from Grey Atom, whose goal is to :
 
     1. Generate meaningful insights on Geolocation Based customer & revenue Analysis
     
@@ -53,35 +53,35 @@ The goal of this project is to :
 
 ## *[Twitter Sentiment Analysis and Prediction](https://github.com/ankitaduttagupta/Twitter-Sentiment-Analysis-and-Prediction)*
 
-Analysis of tweet data and sentiment prediction
+Did some analysis of tweet data and sentiment prediction
 
 ## *[Anomaly Detection ](https://github.com/ankitaduttagupta/Time-Series-Analysis)*
 
-Purpose of this project : to detect outliers from electronic data  and perform time series analysis .
+Purpose of this project  was  to detect outliers from electronic data  and perform time series analysis .
 
 ## *[Financial Delinquency Prediction](https://github.com/ankitaduttagupta/Financial-Delinquency-Prediction)*
 
- To Create model that estimates probability of a customer defaulting based on certain features, categorizing them as a high risk or low risk borrower to determine whether to loan money and how much.
+ Created a model that estimates probability of a customer defaulting based on certain features, categorizing them as a high risk or low risk borrower to determine whether to loan money and how much.
  
 
 ## *[Haptik-Chatbot-analysis-using-NLP](https://github.com/ankitaduttagupta/Haptik-Chatbot-analysis-part1)*
 
-Here is a dataset of Haptik containing the messages it receives from the customers and which topic(class) the messages refer to.
+It is a dataset of Haptik containing the messages it receives from the customers and which topic(class) the messages refer to, performed analysis and  label classification
 
 ## MORE--->
 
 ## *[Haptik-chatbot-analysis-part-2](https://github.com/ankitaduttagupta/Haptik-chatbot-analysis-part-2)*
 
-The task is to build a multi-label classifier using this training data. The classifier should tag all the possible domains for each query. 
-Scrapping and Machine Learning
+Built a multi-label classifier using this training data. The classifier would tag all the possible domains for each query. 
+
 
 ## *[Indian Startup data analysis ](https://github.com/ankitaduttagupta/Haptik-chatbot-analysis-part-2)*
- 
- Finding Insights on the Startup company scene of India
+ Found some Insights on the Startup company trend of India
 
 ## *[Medical Insurance Data ](https://github.com/ankitaduttagupta/Medical_insurance_EDA_prediction)*
 
 Performed EDA and predictive modelling .
 
 ## *[Credit Card Consumption Data](https://github.com/ankitaduttagupta/-Grey-Atom-Hackathon-1)*
+Credit consumption pattern analysis and prediction .
 
