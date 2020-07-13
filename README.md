@@ -1,9 +1,38 @@
-# Hi I'm Ankita!
+![](https://visitor-badge.glitch.me/badge?page_id=ankitaduttagupta.ankitaduttagupta)
 
+### Hi 👋 I'm Ankita,Engineering Grad (Electrical) of 2020 and  an aspiring Data Scientist currently placed in Mumbai!
+### Curious to understand systems at the fundamental level. Working towards building robust and efficient Machine Learning, Data Science and NLP related applications.
 
+**Talking about Personal Stuffs:**
 
+- Student of Grey Atom School of Data Science, Mumbai since October -2019
+- 👨🏽‍💻 I have a keen interest in Machine Learning ;
+- 🌱 I’m currently learning Deeplearning and C++; 
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
 
-### *This is  a list of  projects worked upon by me throughout my  journey of learning Data Science since October 2019 !*
+**I would llike to rate my technical skills with following numerals**
+- Python , Jupyter - 7
+- Machine Learning - 7
+- Natural Language Processing - 5
+- Deep Learning - 3 (working towards increasing that stat 🤝)
+- Data Visualisation with tools like Plotly, Folium, Bokeh - 8
+<br/>
+
+<a href="https://www.linkedin.com/in/ankitadg97/">
+  <img align="left" alt="Ankita's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/ankitadg97">
+  <img align="left" alt="Ankita's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/ankita_d_g/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+- 📫 How to reach me: ankitadg97@gmail.com
+- 📝[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
+
+### *Following is a list of  projects worked upon by me throughout my  journey of learning Data Science since October 2019  !*
 
 
 ## *[Mahindra First Choice Services](https://github.com/ankitaduttagupta/Mahindra_first_choice_capstone)*
