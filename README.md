@@ -9,13 +9,17 @@ Beside's programming, I enjoy eating food and traveling.
 
 **Talking about Personal Stuffs:**
 
-- Student of Grey Atom School of Data Science, Mumbai since October -2019
-- 👨🏽‍💻 I have a keen interest to work on Advanced chatbot processing and optimisation with NLP;
-- 🌱 I’m currently learning Deeplearning and C++; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
+👨 Student of Grey Atom School of Data Science, Mumbai since October -2019
 
-**I would llike to rate my technical skills with following numerals**
+💻 I have a keen interest to work on Advanced chatbot processing and optimisation with NLP;
+
+🌱 I’m currently learning Deeplearning and C++
+
+🤔 I’m looking for help with Data Structures and Algorithms 😭
+
+💬 Ask me about anything, I am happy to help
+
+**I would like to rate my technical skills with following numerals**
 - Python , Jupyter - 7
 - Machine Learning - 7
 - Natural Language Processing - 5
@@ -34,9 +38,9 @@ Beside's programming, I enjoy eating food and traveling.
 </a>
 <br/>
 
-- 📫 How to reach me: ankitadg97@gmail.com
+📫 How to reach me: ankitadg97@gmail.com
 
-- 📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
+📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
 
 ### *Following is a list of  projects worked upon by me throughout my  journey of learning Data Science, working on adding  more* .... 
 
