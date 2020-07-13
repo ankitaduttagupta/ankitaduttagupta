@@ -43,7 +43,7 @@ Beside's programming, I am a foodie and also have a greenthumb!
 
 📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
 
-### *Following is a list of  projects worked upon by me throughout my  journey of learning Data Science, working on adding  more* .... 
+### *Following is a list of some the of the projects which I completed in my journey of  learning Data Science* .... 
 
 
 ## *[Mahindra First Choice Services](https://github.com/ankitaduttagupta/Mahindra_first_choice_capstone)*
@@ -89,4 +89,8 @@ Performed EDA and predictive modelling .
 
 ## *[Credit Card Consumption Data](https://github.com/ankitaduttagupta/-Grey-Atom-Hackathon-1)*
 Credit consumption pattern analysis and prediction .
+
+
+## *Working on adding more* .... 
+
 
