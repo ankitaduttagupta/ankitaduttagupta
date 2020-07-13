@@ -40,7 +40,7 @@ Beside's programming, I am a foodie and also have a greenthumb!
 
 📫 How to reach me: ankitadg97@gmail.com
 
-📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
+📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Y4JF46Yy49RMxt1VxMEHt3qDD_V3kmrk/view?usp=sharing)
 
 ### *Following is a list of some the of the projects which I completed in my journey of  learning Data Science* .... 
 
