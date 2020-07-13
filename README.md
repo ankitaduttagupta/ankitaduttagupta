@@ -2,12 +2,11 @@
 
 ## Hi! 👋 I'm Ankita
 
-Engineering Grad (Electrical) of 2020 and  an aspiring Data Scientist currently placed in Mumbai!
+### Engineering Grad (Electrical) of 2020 and  an aspiring Data Scientist currently placed in Mumbai!
 Curious to understand systems at the fundamental level. Working towards building robust and efficient Machine Learning, Data Science and NLP related applications.
 Beside's programming, I am a foodie and also have a greenthumb!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
+  
 **Talking about Personal Stuffs:**
 
 👨 Student of Grey Atom School of Data Science, Mumbai since October -2019
