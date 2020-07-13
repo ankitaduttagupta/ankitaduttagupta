@@ -1,8 +1,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ankitaduttagupta.ankitaduttagupta)
 
-### Hi 👋 I'm Ankita,Engineering Grad (Electrical) of 2020 and  an aspiring Data Scientist currently placed in Mumbai!
-### Curious to understand systems at the fundamental level. Working towards building robust and efficient Machine Learning, Data Science and NLP related applications.
-### Beside's programming, I enjoy eating food and traveling.
+### Hi! 👋 I'm Ankita
+Engineering Grad (Electrical) of 2020 and  an aspiring Data Scientist currently placed in Mumbai!
+Curious to understand systems at the fundamental level. Working towards building robust and efficient Machine Learning, Data Science and NLP related applications.
+Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -37,7 +38,7 @@
 
 - 📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
 
-### *Following is a list of  projects worked upon by me throughout my  journey of learning Data Science since October 2019  !*
+### *Following is a list of  projects worked upon by me throughout my  journey of learning Data Science, working on adding  more.... *
 
 
 ## *[Mahindra First Choice Services](https://github.com/ankitaduttagupta/Mahindra_first_choice_capstone)*
