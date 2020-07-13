@@ -38,7 +38,7 @@ Beside's programming, I enjoy eating food and traveling.
 
 - 📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
 
-### *Following is a list of  projects worked upon by me throughout my  journey of learning Data Science, working on adding  more.... *
+### *Following is a list of  projects worked upon by me throughout my  journey of learning Data Science, working on adding  more* .... 
 
 
 ## *[Mahindra First Choice Services](https://github.com/ankitaduttagupta/Mahindra_first_choice_capstone)*
