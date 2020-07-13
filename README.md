@@ -2,6 +2,9 @@
 
 ### Hi 👋 I'm Ankita,Engineering Grad (Electrical) of 2020 and  an aspiring Data Scientist currently placed in Mumbai!
 ### Curious to understand systems at the fundamental level. Working towards building robust and efficient Machine Learning, Data Science and NLP related applications.
+### Beside's programming, I enjoy eating food and traveling.
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
@@ -28,9 +31,11 @@
 <a href="https://www.instagram.com/ankita_d_g/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br/>
 
 - 📫 How to reach me: ankitadg97@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
+
+- 📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Tj8k4SB2Ii4WolUZbzaoebGNtweNvfWY/view?usp=sharing)
 
 ### *Following is a list of  projects worked upon by me throughout my  journey of learning Data Science since October 2019  !*
 
