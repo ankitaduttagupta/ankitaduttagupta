@@ -1,9 +1,6 @@
-# Hi!
+# Hi I'm Ankita!
 
-```json
-   *This is  a list of  projects worked upon by me throughout my  journey of learning Data Science since October 2019 !*
 
-```
 
 
 ### *This is  a list of  projects worked upon by me throughout my  journey of learning Data Science since October 2019 !*
