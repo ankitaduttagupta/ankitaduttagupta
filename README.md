@@ -7,9 +7,7 @@
 
 👨 Student of Grey Atom School of Data Science, Mumbai since October -2019
 
-💻 I have a keen interest to work on Advanced chatbot processing and optimisation with NLP;
-
-🌱 I’m currently learning Deeplearning and C++
+💻 I have a keen interest to work on NLP related fields;
 
 🤔 I’m looking for help with Data Structures and Algorithms
 
