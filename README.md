@@ -2,13 +2,6 @@
 
 ## Hi! I'm Ankita
 
-Skills:
-
-- Python , Jupyter - 7
-- Machine Learning - 7
-- Natural Language Processing - 5
-- Deep Learning - 3 (working towards increasing that stat 🤝)
-- Data Visualisation with tools like Plotly, Folium, Bokeh - 8
 <br/>
 
 <a href="https://www.linkedin.com/in/ankitadg97/">
@@ -81,5 +74,13 @@ Credit consumption pattern analysis and prediction .
 
 
 #### Working towards adding more .... 
+
+ My Skills:
+
+- Python , Jupyter - 7
+- Machine Learning - 7
+- Natural Language Processing - 5
+- Deep Learning - 3 (working towards increasing that stat 🤝)
+- Data Visualisation with tools like Plotly, Folium, Bokeh - 8
 
 
