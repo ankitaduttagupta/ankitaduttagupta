@@ -1,19 +1,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ankitaduttagupta.ankitaduttagupta)
 
-## Hi! 👋 I'm Ankita,an aspiring Data Scientist currently placed in Mumbai!
+## Hi! I'm Ankita
 
+Skills:
 
-**Talking about Personal Stuffs:**
-
-👨 Student of Grey Atom School of Data Science, Mumbai since October -2019
-
-💻 I have a keen interest to work on NLP related fields;
-
-🤔 I’m looking for help with Data Structures and Algorithms
-
-💬 Ask me about anything, I am happy to help
-
-**I would like to rate my technical skills with following numerals**
 - Python , Jupyter - 7
 - Machine Learning - 7
 - Natural Language Processing - 5
@@ -35,9 +25,9 @@
 
 
 
-📫 How to reach me: ankitadg97@gmail.com
+📫 ankitadg97@gmail.com
 
-📝 This is my current resume -->[Resume](https://drive.google.com/file/d/1Y4JF46Yy49RMxt1VxMEHt3qDD_V3kmrk/view?usp=sharing)
+📝 [Resume](https://drive.google.com/file/d/1Y4JF46Yy49RMxt1VxMEHt3qDD_V3kmrk/view?usp=sharing)
 
 ### *Following is a list of some the of the projects which I completed in my journey of  learning Data Science* .... 
 
