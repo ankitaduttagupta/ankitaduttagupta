@@ -1,6 +1,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ankitaduttagupta.ankitaduttagupta)
 
 ## Hi! I'm Ankita
+Backend Engineer | Python, Redis, MySQL, FastAPI, AWS
+Building fast, reliable systems  
+Exploring AI and cloud tech
+
 
 <br/>
 
