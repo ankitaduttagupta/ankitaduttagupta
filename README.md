@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankita Dutta Gupta  
 
-🚀 Full-stack developer | 🧠 AI & Data Enthusiast | ⚡ Systems Design Learner  
+🚀 Full-stack developer | 🧠 AI & Data Enthusiast | ⚡ Systems Design Explorer  
 
 I love building **scalable backend systems, AI-powered apps, and data-driven solutions**.  
 This GitHub is a collection of my learning journey, side projects, and production-grade systems.  
