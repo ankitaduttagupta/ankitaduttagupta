@@ -10,7 +10,7 @@ This GitHub is a collection of my learning journey, side projects, and productio
 ## 🛠 Tech Stack  
 
 **Languages:** Python, Java, SQL, JavaScript  
-**Frameworks:** FastAPI, Flask, Django, React  
+**Frameworks:** FastAPI, Flask, React  
 **Databases & Messaging:** Redis, MySQL, Kafka  
 **AI/ML:** PyTorch, scikit-learn, Hugging Face, LangGraph, LLaMA-3  
 **DevOps & Tools:** Docker, Kubernetes, GitHub Actions, Prometheus, Grafana  
