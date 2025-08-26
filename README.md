@@ -2,7 +2,8 @@
 
 🚀 Full-stack developer | 🧠 AI & Data Enthusiast | ⚡ Systems Design Explorer  
 
-I love building **scalable backend systems, AI-powered apps, and data-driven solutions**.  
+I have arorund 4 years of professional experience in building **scalable backend systems, AI-powered apps, and data-driven solutions** 
+and love spending my time finding soultions to real life problems.  
 This GitHub is a collection of my learning journey, side projects, and production-grade systems.  
 
 ---
